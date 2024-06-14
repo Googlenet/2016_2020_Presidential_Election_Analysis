@@ -12,4 +12,6 @@ There are various types of statiics used for different types of analysis in this
       - Stratified Sampling
   - Central Limit Theorem (CLT)
 
+[Link to Analysis]https://googlenet.github.io/2016_2020_Presidential_Election_Analysis/
+
 Last Edit: June 4th, 2024
